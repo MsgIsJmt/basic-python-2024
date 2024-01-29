@@ -21,7 +21,7 @@ print(5 != 4) # True
 
 print(5 <= 4 and (5/2 < 3)) # False and를 기준으로 왼쪽/오른쪽 모두 참이어야 참
 print(5 <= 4 or (5/2 < 3)) # True
-print(not (5 < 4)) # 참이면 거짓이므로, 거짓이면 참으로 반대로
+print(not (5 < 4)) # 참이면 거짓이므로, 거짓이면 참으로
 
 
 
