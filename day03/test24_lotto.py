@@ -19,4 +19,3 @@ rnd.shuffle(weight) # 가중치로 섞음
 lottery = rnd.choices(numbers, weights=weight, k=6)
 lottery.sort()
 print(lottery)
-
