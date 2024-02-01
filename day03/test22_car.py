@@ -1,4 +1,4 @@
-#file: test21_car.py
+#file: test22_car.py
 # desc: Car 클래스 만들기
 class Car:
     wheel_num = 4
