@@ -99,7 +99,9 @@ def divide(x, y):
     ```
 - 파이썬 활용
     - 주피터 노트북
-
+        - Ctrl + Shift + P (명령팔레트) 로 시작
+        - 사용방법 (test31_jupytermb.ipynb 참조)
+    - folium
 
 
 
