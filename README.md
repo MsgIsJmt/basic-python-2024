@@ -104,11 +104,11 @@ def divide(x, y):
     - folium 기본사용
     ![folium사용법](https://raw.githubusercontent.com/MsgIsJmt/basic-python-2024/359a16d0ed3158a0b0bf18d8637d1491035c307a/images/Image20240201172037.png)
 
-
 ## 5일차
 - 파이썬 응용
     - 주피터 노트북 활용 - 구글 코랩(colab)
     - folium 계속
+    - json 상용법
 
 
 
