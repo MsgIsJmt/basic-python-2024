@@ -10,3 +10,5 @@ input_a, input_b = map(int, input('값을 두개 입력(공백으로 구분) > '
 
 print(f'입력값 {input_a}, {input_b}')
 print(f'더하기 결과 {input_a + input_b}')
+
+
